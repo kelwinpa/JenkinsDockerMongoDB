@@ -1,0 +1,13 @@
+# Spring Configuration
+spring:
+  application:
+    name: Spring
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/client
+      
+# Server Cong    
+server:
+  port: 9090 # In which port the server will be bound.
+ 
+
